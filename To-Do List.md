@@ -15,7 +15,7 @@
 
 ### Sub-tasks:
 
-- [ ] Lên kết hoạch đo, chuẩn bị phần cứng và so sánh khoảng cách thực tế của ranging_demo ở các mức: 1m, 10m, 100m, 1km, 3km, etc.
+- [ ] Lên kết hoạch đo, chuẩn bị phần cứng và so sánh khoảng cách thực tế của ranging_demo ở các mức: 1m, 10m, 100m, 1km, 3km, etc. (Ví dụ: Kịch bản đo board nào trước/sau? Cấp nguồn cho các board như thế nào? Làm sao kích hoạt một lần đo? Làm sao lấy kết quả?)
 - [ ] Setup môi trường làm việc và bộ thư viện chuẩn cho NiceRF LR2021 DevKit → Chuẩn bị 1 reposistory hoặc 1 README.md hướng dẫn cách setup
 
 ---
