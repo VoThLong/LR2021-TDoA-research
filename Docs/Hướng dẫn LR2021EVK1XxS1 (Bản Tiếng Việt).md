@@ -74,9 +74,9 @@ Tên và logo Semtech là thương hiệu đã đăng ký của Tập đoàn Sem
 
 **Bộ công cụ LR2021EVK1XxS1 không chứa Chì (Pb-free), không chứa Halogen và tuân thủ các tiêu chuẩn RoHS/WEEE.**
 
-|MÃ SẢN PHẨM (PART NUMBER)|NỘI DUNG (CONTENT)|PHIÊN BẢN (VERSION)|
-|---|---|---|
-|**LR2021EVK1XBS1**|Bộ công cụ đánh giá Wio-LR2021 LoRa Plus™|Châu Âu - 868 MHz|
-|**LR2021EVK1XCS1**|Bộ công cụ đánh giá Wio-LR2021 LoRa Plus™|Mỹ - 915 MHz|
+| MÃ SẢN PHẨM (PART NUMBER) | NỘI DUNG (CONTENT)                        | PHIÊN BẢN (VERSION) |
+| ------------------------- | ----------------------------------------- | ------------------- |
+| **LR2021EVK1XBS1**        | Bộ công cụ đánh giá Wio-LR2021 LoRa Plus™ | Châu Âu - 868 MHz   |
+| **LR2021EVK1XCS1**        | Bộ công cụ đánh giá Wio-LR2021 LoRa Plus™ | Mỹ - 915 MHz        |
 
 _© 2025 Semtech. Đã đăng ký bản quyền. www.semtech.com_ _LR2021EVK1XxS1 | Ghi chú Đọc Tôi-Tháng 10 năm 2025 Phiên bản V1.00_
