@@ -34,7 +34,7 @@
 - [ ] **Tìm hiểu*** reposistory code [Lora-net/usp](https://github.com/Lora-net/usp) cho LR2021
 - [ ] **Tìm hiểu*** reposistory code [Lora-net/usp_zephyr]([https://github.com/Lora-net/usp](https://github.com/Lora-net/usp_zephyr)) cho LR2021
 - [ ] Triển khai example **main/examples/main_examples/ranging_demo** trong [Lora-net/usp](https://github.com/Lora-net/usp) và [Lora-net/usp_zephyr]([https://github.com/Lora-net/usp](https://github.com/Lora-net/usp_zephyr))
-- [ ] 🔴 **QUAN TRỌNG - Viết README.md cho repo này**. (Phải có giới thiệu project chứ, có thể sử dụng [LR2021_TDoA_Project_Proposal.md](https://gist.github.com/nguyenmanhthao996tn/09e5b96183fd209d3801287c66844442))
+- [x] 🔴 **QUAN TRỌNG - Viết README.md cho repo này**. (Phải có giới thiệu project chứ, có thể sử dụng [LR2021_TDoA_Project_Proposal.md](https://gist.github.com/nguyenmanhthao996tn/09e5b96183fd209d3801287c66844442))
 
 * Các câu hỏi: Code này là gì? Làm sao sử dụng? etc.
 
