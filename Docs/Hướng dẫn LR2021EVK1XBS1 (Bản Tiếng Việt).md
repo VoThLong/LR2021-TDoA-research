@@ -1,6 +1,6 @@
 # SEMTECH | LoRa | LoRaWAN
 
-## LR2021EVK1XxS1
+## LR2021EVK1XBS1
 
 ### Bộ công cụ đánh giá
 
@@ -10,7 +10,7 @@ _(Các biểu tượng đồ họa: S1G, 2G4, Vệ tinh, SEMTECH LR20xx)_ **+** 
 
 **Vi điều khiển (MCU) của bên thứ 3 + Các ngăn xếp (Stacks) LPWAN / LP-Wireless của bên thứ 3**
 
-> _Bộ công cụ đánh giá LR2021EVK1XxS1 và phiên bản mô-đun LR2021WIO1XDCS được cung cấp trong hộp này chỉ dành cho mục đích Đánh giá!_
+> _Bộ công cụ đánh giá LR2021EVK1XBS1 và phiên bản mô-đun LR2021WIO1XDCS được cung cấp trong hộp này chỉ dành cho mục đích Đánh giá!_
 
 ## Thành phần trong hộp (What's In The Box)
 
@@ -72,11 +72,11 @@ Tên và logo Semtech là thương hiệu đã đăng ký của Tập đoàn Sem
 
 **Email:** sales@semtech.com **Điện thoại:** (805) 498-2111 **Fax:** (805) 498-3804 [www.semtech.com](http://www.semtech.com "null")
 
-**Bộ công cụ LR2021EVK1XxS1 không chứa Chì (Pb-free), không chứa Halogen và tuân thủ các tiêu chuẩn RoHS/WEEE.**
+**Bộ công cụ LR2021EVK1XBS1 không chứa Chì (Pb-free), không chứa Halogen và tuân thủ các tiêu chuẩn RoHS/WEEE.**
 
 | MÃ SẢN PHẨM (PART NUMBER) | NỘI DUNG (CONTENT)                        | PHIÊN BẢN (VERSION) |
 | ------------------------- | ----------------------------------------- | ------------------- |
 | **LR2021EVK1XBS1**        | Bộ công cụ đánh giá Wio-LR2021 LoRa Plus™ | Châu Âu - 868 MHz   |
 | **LR2021EVK1XCS1**        | Bộ công cụ đánh giá Wio-LR2021 LoRa Plus™ | Mỹ - 915 MHz        |
 
-_© 2025 Semtech. Đã đăng ký bản quyền. www.semtech.com_ _LR2021EVK1XxS1 | Ghi chú Đọc Tôi-Tháng 10 năm 2025 Phiên bản V1.00_
+_© 2025 Semtech. Đã đăng ký bản quyền. www.semtech.com_ _LR2021EVK1XBS1 | Ghi chú Đọc Tôi-Tháng 10 năm 2025 Phiên bản V1.00_

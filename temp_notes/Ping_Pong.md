@@ -956,7 +956,7 @@ Bạn có muốn tôi giúp thực hiện việc copy và tạo file `CMakeLists
 
 ờm đây là thông tin về sản phẩm tôi đang sở hữu: "# SEMTECH | LoRa | LoRaWAN
 
-## LR2021EVK1XxS1
+## LR2021EVK1XBS1
 
 ### LoRa Plus™
 
@@ -966,7 +966,7 @@ _(Graphic Icons: S1G, 2G4, Satellite, SEMTECH LR20xx)_ **+** _(Graphic Icons: MC
 
 **3rd party MCU + 3rd party LPWAN / LP-Wireless Stacks**
 
-> _The LR2021EVK1XxS1 Evaluation kit and LR2021WIO1XDCS modules version delivered in this box are for Evaluation Only!_
+> _The LR2021EVK1XBS1 Evaluation kit and LR2021WIO1XDCS modules version delivered in this box are for Evaluation Only!_
 
 ## What's In The Box
 
@@ -1028,20 +1028,20 @@ All rights reserved. © 2025 Semtech
 
 **E-mail:** sales@semtech.com **Phone:** (805) 498-2111 **Fax:** (805) 498-3804 [www.semtech.com](http://www.semtech.com "null")
 
-**The LR2021EVK1XxS1 kit is Pb-free, Halogen-free and RoHS/WEEE compliant.**
+**The LR2021EVK1XBS1 kit is Pb-free, Halogen-free and RoHS/WEEE compliant.**
 
 |PART NUMBER|CONTENT|VERSION|
 |---|---|---|
 |**LR2021EVK1XBS1**|Wio-LR2021 LoRa Plus™ Evaluation Kit|Europe - 868 MHz|
 |**LR2021EVK1XCS1**|Wio-LR2021 LoRa Plus™ Evaluation Kit|US - 915 MHz|
 
-_© 2025 Semtech. All Rights Reserved. www.semtech.com_ _LR2021EVK1XxS1 | Read Me Note-Oct 2025 Rev V1.00_"
+_© 2025 Semtech. All Rights Reserved. www.semtech.com_ _LR2021EVK1XBS1 | Read Me Note-Oct 2025 Rev V1.00_"
 
 ---
 
 ## MODEL ✨
 
-Chúc mừng bạn, bộ kit **LR2021EVK1XxS1** bạn đang có là dòng mới nhất (tháng 10/2025) sử dụng chip **LR2021** (hỗ trợ cả Sub-GHz và 2.4GHz) kết hợp với MCU **nRF54L15** cực kỳ mạnh mẽ và tiết kiệm điện.
+Chúc mừng bạn, bộ kit **LR2021EVK1XBS1** bạn đang có là dòng mới nhất (tháng 10/2025) sử dụng chip **LR2021** (hỗ trợ cả Sub-GHz và 2.4GHz) kết hợp với MCU **nRF54L15** cực kỳ mạnh mẽ và tiết kiệm điện.
 
 Để chuyển đổi các mẫu sang dự án `lr2021-tdoa-firmware` của bạn một cách chuyên nghiệp và gọn gàng, tôi sẽ thực hiện các bước sau ngay bây giờ:
 

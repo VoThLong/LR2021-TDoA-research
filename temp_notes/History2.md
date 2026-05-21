@@ -4238,8 +4238,8 @@ Showing up to 200 items (files + folders). Folders or files indicated with ... c
 │   ├───Pasted image 20260518093000.png
 │   └───Pasted image 20260518093757.png
 ├───Docs/
-│   ├───Hướng dẫn LR2021EVK1XxS1 (Bản Tiếng Việt).md
-│   ├───Huong_dan_LR2021EVK1XxS1.md
+│   ├───Hướng dẫn LR2021EVK1XBS1 (Bản Tiếng Việt).md
+│   ├───Huong_dan_LR2021EVK1XBS1.md
 │   ├───LoRaStudio_UserGuide (Bản dịch).md
 │   ├───LoRaStudio_UserGuide.pdf
 │   └───LR2021_TDoA_Project_Proposal.md
@@ -4305,7 +4305,7 @@ Bạn đọc thư mục tôi mới thêm vào đi. Tôi muốn viết một cái
   "id": "list_directory_1779370833161_1",
   "name": "list_directory",
   "response": {
-    "output": "Directory listing for /home/dashtrad/Documents/LR2021-TDoA-research/Docs:\nHướng dẫn LR2021EVK1XxS1 (Bản Tiếng Việt).md (7642 bytes)\nHuong_dan_LR2021EVK1XxS1.md (5313 bytes)\nLoRaStudio_UserGuide (Bản dịch).md (26974 bytes)\nLoRaStudio_UserGuide.pdf (4072022 bytes)\nLR2021_TDoA_Project_Proposal.md (5135 bytes)"
+    "output": "Directory listing for /home/dashtrad/Documents/LR2021-TDoA-research/Docs:\nHướng dẫn LR2021EVK1XBS1 (Bản Tiếng Việt).md (7642 bytes)\nHuong_dan_LR2021EVK1XBS1.md (5313 bytes)\nLoRaStudio_UserGuide (Bản dịch).md (26974 bytes)\nLoRaStudio_UserGuide.pdf (4072022 bytes)\nLR2021_TDoA_Project_Proposal.md (5135 bytes)"
   }
 }
 ```**Tool Response**:
